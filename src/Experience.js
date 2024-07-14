@@ -16,6 +16,7 @@ export default function Experience()
 
         // groupRef.current.rotation.y += delta
         cubeRef.current.rotation.y += delta
+        // console.log(cubeRef.current.rotation)
 
         // const angle = state.clock.getElapsedTime()
         // state.camera.position.x = Math.sin(angle) * 8
